@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋 I'm Windzzz. </h1>
+<!-- A Security Consultant and Researcher -->
 
+
+- 🔭 I’m currently working on **University of Information Technology - Vietnam National University Ho Chi Minh City**.
+- 🌱 I’m currently learning **cyber security**.
+- 👯 I’m looking to collaborate on ** Chuc Hoang**.
+- ⚡ Fun fact: ✨ _special_ ✨
 <!--
-**nguyenvantai102/nguyenvantai102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about **security consultant
 -->
+
+
+
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+
+
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="">
+   <img src="https://github-readme-stats.vercel.app/api?username=nguyenvantai102&show_icons=true&border_radius=25" width=450>
+  </a>
+  <br>
+  <a href="#" title="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvantai102&layout=compact&border_radius=25" width=450 >
+  </a>
+</div>
