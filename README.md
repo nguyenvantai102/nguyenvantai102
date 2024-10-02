@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying on **University of Information Technology - Vietnam National University Ho Chi Minh City**.
-- 🌱 I’m currently learning **cyber security**.
+- 🌱 I’m currently working about **kubernetes and openstack**.
 - ⚡ Fun fact: ✨ _special_ ✨
 <!--
 - 💬 Ask me about **System and Kubernetes
