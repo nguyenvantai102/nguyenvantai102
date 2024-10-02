@@ -1,13 +1,12 @@
 <h1 align='center'> Hi there 👋 I'm Windzzz. </h1>
-<!-- A Security Consultant and Researcher -->
+<!-- A System Engineer and Researcher -->
 
 
-- 🔭 I’m currently working on **University of Information Technology - Vietnam National University Ho Chi Minh City**.
+- 🔭 I’m currently studying on **University of Information Technology - Vietnam National University Ho Chi Minh City**.
 - 🌱 I’m currently learning **cyber security**.
-- 👯 I’m looking to collaborate on ** Chuc Hoang**.
 - ⚡ Fun fact: ✨ _special_ ✨
 <!--
-- 💬 Ask me about **security consultant
+- 💬 Ask me about **System and Kubernetes
 
 
 
